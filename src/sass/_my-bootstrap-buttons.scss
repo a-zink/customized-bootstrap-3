@@ -1,6 +1,6 @@
 // define custom extensions, e.g. buttons here
-// you can reference all definitions of the Bootstrap sources, e.g. 
+// you can reference all definitions of the Bootstrap sources and your variables, e.g. 
 
 .btn-custom {
-  @include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border);
+  @include button-variant($btn-custom-color, $btn-custom-bg, $btn-custom-border);
 }
