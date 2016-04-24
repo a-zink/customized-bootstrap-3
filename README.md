@@ -38,7 +38,7 @@ Simply get the css files (manually|bower) contained in the **dist** directory an
 You can easily reference your customized bootstrap artifact from bower, e.g.
 
 ```
-bower install https://github.com/andreas-zink/customized-bootstrap-3.git#master
+bower install https://github.com/a-zink/customized-bootstrap-3.git#master
 ```
 
 ## FAQ
