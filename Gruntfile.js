@@ -40,6 +40,12 @@ module.exports = function(grunt) {
 									cwd : 'bower_components/bootstrap-sass/assets/fonts',
 									src : [ '**/*.*' ],
 									dest : 'dist/fonts'
+								},
+								{
+									expand : true,
+									cwd : 'bower_components/bootstrap-sass/assets/javascripts',
+									src : [ 'bootstrap.js', 'bootstrap.min.js' ],
+									dest : 'dist/js'
 								}, {
 									expand : true,
 									cwd : 'src/examples',
