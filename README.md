@@ -3,11 +3,8 @@
 This is a project template for building a customized version of [Bootstrap](http://getbootstrap.com/) 3 based on the [SASS sources](http://getbootstrap.com/css/#sass).
 
 * Build environment is managed using [npm](https://www.npmjs.com/)
-
 * Dependencies are managed using [Bower](http://bower.io/)
-
 * Build is performed using [Grunt](http://gruntjs.com/)
-
 * SASS compilation is done with Compass using [Ruby](https://rubygems.org/gems/compass/versions/1.0.3)
 
 
