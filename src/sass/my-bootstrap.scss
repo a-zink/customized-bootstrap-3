@@ -2,8 +2,9 @@
 @import "my-bootstrap-fonts";
 @import "my-bootstrap-variables";
 
+// load the complete bootstrap sources or pick individual parts
 @import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 
 // load additional extensions
 @import "my-bootstrap-buttons";
-
+// ...
